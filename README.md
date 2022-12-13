@@ -1,0 +1,2 @@
+# dom
+persiapan untuk KP
